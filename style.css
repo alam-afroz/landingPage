@@ -118,7 +118,7 @@ header ul {
 }
 .itembox img:hover {
   width: 156px;
-  box-shadow: 2px 1px 5px rgb(0, 96, 123);
+  box-shadow: 2px 1px 10px rgb(153, 151, 22);
   border: 2px solid white;
   cursor: pointer;
 }
